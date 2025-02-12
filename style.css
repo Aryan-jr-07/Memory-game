@@ -8,13 +8,13 @@ h1 {
 }
 .game-board {
   display: grid;
-  grid-template-columns: repeat(4, 100px);
+  grid-template-columns: repeat(4, 110px);
   grid-gap: 10px;
   justify-content: center;
   margin-top: 20px;
 }
 .card {
-  width: 100px;
+  width: 110px;
   height: 150px;
   background-color: white;
   border-radius: 8px;
