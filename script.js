@@ -1,4 +1,4 @@
-const symbols = ['1', '2', '3', '4', '5', '6', '7', '8'];
+const symbols = ["😀", "🎉", "🚀", "🔥", "❤️", "🌍", "🎶", "🍒"];
 let cards = [...symbols, ...symbols].sort(() => Math.random() - 0.5);
 
 const gameBoard = document.getElementById("gameBoard");
